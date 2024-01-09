@@ -34,7 +34,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='AB_NYC_2019' name='textscan.1jdwc6k1vf42u017eo78317lewt9'>
-            <connection class='textscan' directory='D:/Downloads' filename='AB_NYC_2019.csv' password='' server='' />
+            <connection class='textscan' directory='/' filename='AB_NYC_2019.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1jdwc6k1vf42u017eo78317lewt9' name='AB_NYC_2019.csv' table='[AB_NYC_2019#csv]' type='table'>
